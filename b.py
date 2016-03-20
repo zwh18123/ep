@@ -1,3 +1,4 @@
+#123
 import qrcode
 import Image
 id= raw_input("Input your id plz")
